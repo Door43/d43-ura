@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ura:home|Door43 (ura)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ura|d43-ura repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ura/archive/master.zip|d43-ura.zip]]
+
+**Recent Changes**
+{{changes>ns = ura}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ura|Ethnologue data]]
+
